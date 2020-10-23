@@ -176,11 +176,11 @@
         "id": "error.unexpected_crash.explanation"
       },
       {
-        "defaultMessage": "Try disabling them and refreshing the page. If that does not help, you may still be able to use Mastodon through a different browser or native app.",
+        "defaultMessage": "Try disabling them and refreshing the page. If that does not help, you may still be able to use Chatterly through a different browser or native app.",
         "id": "error.unexpected_crash.next_steps_addons"
       },
       {
-        "defaultMessage": "Try refreshing the page. If that does not help, you may still be able to use Mastodon through a different browser or native app.",
+        "defaultMessage": "Try refreshing the page. If that does not help, you may still be able to use Chatterly through a different browser or native app.",
         "id": "error.unexpected_crash.next_steps"
       },
       {
@@ -1245,7 +1245,7 @@
         "id": "search_results.statuses"
       },
       {
-        "defaultMessage": "Searching toots by their content is not enabled on this Mastodon server.",
+        "defaultMessage": "Searching toots by their content is not enabled on this Chatterly.",
         "id": "search_results.statuses_fts_disabled"
       },
       {
@@ -1567,7 +1567,7 @@
         "id": "directory.local"
       },
       {
-        "defaultMessage": "From known fediverse",
+        "defaultMessage": "From Chatterly",
         "id": "directory.federated"
       }
     ],
@@ -1789,7 +1789,7 @@
         "id": "getting_started.heading"
       },
       {
-        "defaultMessage": "Profile directory",
+        "defaultMessage": "Explore",
         "id": "getting_started.directory"
       }
     ],
@@ -1898,7 +1898,7 @@
         "id": "introduction.welcome.headline"
       },
       {
-        "defaultMessage": "Welcome to the fediverse! In a few moments, you'll be able to broadcast messages and talk to your friends across a wide variety of servers. But this server, {domain}, is special—it hosts your profile, so remember its name.",
+        "defaultMessage": "Welcome to the Chatterly! In a few moments, you'll be able to broadcast messages and talk to your friends across a wide variety of servers.",
         "id": "introduction.welcome.text"
       },
       {
@@ -1926,7 +1926,7 @@
         "id": "introduction.federation.federated.headline"
       },
       {
-        "defaultMessage": "Public posts from other servers of the fediverse will appear in the federated timeline.",
+        "defaultMessage": "Public posts from other Chatterly servers will appear in the federated timeline.",
         "id": "introduction.federation.federated.text"
       },
       {
@@ -2393,7 +2393,7 @@
         "id": "notifications_permission_banner.title"
       },
       {
-        "defaultMessage": "To receive notifications when Mastodon isn't open, enable desktop notifications. You can control precisely which types of interactions generate desktop notifications through the {icon} button above once they're enabled.",
+        "defaultMessage": "To receive notifications when Chatterly isn't open, enable desktop notifications. You can control precisely which types of interactions generate desktop notifications through the {icon} button above once they're enabled.",
         "id": "notifications_permission_banner.how_to_control"
       },
       {
@@ -3004,7 +3004,7 @@
         "id": "navigation_bar.logout"
       },
       {
-        "defaultMessage": "Mastodon is open source software. You can contribute or report issues on GitHub at {github}.",
+        "defaultMessage": "Chatterly is open source software. You can contribute or report issues on GitHub at {github}.",
         "id": "getting_started.open_source_notice"
       }
     ],
@@ -3111,7 +3111,7 @@
         "id": "navigation_bar.lists"
       },
       {
-        "defaultMessage": "Profile directory",
+        "defaultMessage": "Explore",
         "id": "getting_started.directory"
       },
       {
